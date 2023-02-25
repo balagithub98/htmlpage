@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Colours Technologies</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="home">
+        <h1>Welcome to Colours Technologies</h1>
+        <h1 style="color: blue;">Colours Technologies</h1>
+        <p>This is a sample website created to demonstrate basic Httpd services.</p>
+      </section>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>Colours Technologies is the best for learning Devops and Cloud computing.</p>
+      </section>
+      <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+          <li>Devops </li>
+          <li>AWS </li>
+          <li>Linux </li>
+          <li>Python </li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Website: www.colourstechnologies.com</p>
+        <p>Phone: 7010 584 543</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright ©2023 Colours Technologies</p>
+    </footer>
+  </body>
+</html>

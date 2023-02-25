@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Colours Technologies</title>
+</head>
+<body>
+  <h1>Welcome to Colours Technologies!</h1>
+  <p>Here's some information about me:</p>
+  <ul>
+    <li>Name: Bala</li>
+    <li>Handling: Devops/ Cloud computing</li>
+    <li>Institute: Colours Technologies</li>
+  </ul>
+  <p>Feel free to contact us at <a href="https://www.colourstechnologies.com/">https://www.colourstechnologies.com/</a>.</p>
+</body>
+</html>
+

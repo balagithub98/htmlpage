@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Colours Technologies</title>
+	<style>
+		body {
+			background-color: #F5F5F5;
+			font-family: Arial, sans-serif;
+			color: #333;
+		}
+		header {
+			background-color: #4826a5;
+			padding: 20px;
+			text-align: center;
+		}
+		h1 {
+			font-size: 4rem;
+			margin: 0;
+			color: #FFF;
+		}
+		h2 {
+			font-size: 2rem;
+			margin: 0;
+			color: #FFF;
+		}
+		button {
+			background-color: #FFF;
+			color: #FFA07A;
+			font-size: 1.5rem;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			transition: all 0.3s ease;
+			margin-top: 20px;
+			display: block;
+			margin: 0 auto;
+		}
+		button:hover {
+			background-color: #FFA07A;
+			color: #FFF;
+		}
+		main {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 40px 20px;
+		}
+		section {
+			margin-bottom: 40px;
+			text-align: center;
+		}
+		h3 {
+			font-size: 2rem;
+			margin: 0;
+			color: #FFA07A;
+			margin-bottom: 20px;
+		}
+		p {
+			font-size: 1.2rem;
+			margin: 0;
+			line-height: 1.5;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		footer {
+			background-color: #333;
+			color: #FFF;
+			padding: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Colours Technologies</h1>
+		<h2>Classroom and Online Training</h2>
+		<button>Contact Us</button>
+	</header>
+	<main>
+		<section>
+			<h3>Section 1</h3>
+			<img src="https://via.placeholder.com/600x400" alt="Placeholder image">
+			<p>Content goes here</p>
+		</section>
+		<section>
+			<h3>Section 2</h3>
+			<img src="https://via.placeholder.com/600x400" alt="Placeholder image">
+			<p>Content goes here</p>
+		</section>
+		<section>
+			<h3>Section 3</h3>
+			<img src="https://via.placeholder.com/600x400" alt="Placeholder image">
+			<p>Content goes here</p>
+		</section>
+	</main>
+	<footer>
+		<p>Copyright © 2023</p>
+	</footer>
+</body>
+</html>
